@@ -6,7 +6,6 @@ No one likes long lines that move at a snail's pace. What if you could just show
 <li>With First Data as a sponsor, it was essential for us to use Clover POS on the Android Nexus 7</li>
 <li>Kairos API for facial recognition</li>
 <li>Payeezy API for credit card transactions</li>
-<li>React Native</li>
 </ul>
 
 
